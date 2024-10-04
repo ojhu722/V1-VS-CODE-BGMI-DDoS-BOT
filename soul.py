@@ -77,9 +77,9 @@ def rotate_proxy(sent_message):
                         print(f"Error updating message: {str(e)}")
         time.sleep(5)
 
-bot = telebot.TeleBot(bot_token)
+bot = telebot.TeleBot(7500897470:AAG0iq_JMHtCpT6XAQE1U_9P5MU17zl6zHo)
 
-ADMIN_ID = 5637052284  # Replace with the actual admin's user ID
+ADMIN_ID = 5891962328  # Replace with the actual admin's user ID
 
 def generate_one_time_key():
     return secrets.token_urlsafe(16)
